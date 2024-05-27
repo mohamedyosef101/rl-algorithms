@@ -1,1 +1,4 @@
-# rl-algorithms
+# Reinforcement Learning
+The way we learn is the core thing in any part of our life. So, can we move from the traditional learning way in machine learning which is about learning from labeled examples (supervised) or unlabeled examples (unsupervised)? Reinforcement learning provides a solution for this, where you have an agent (the AI) that learns through trial and error and learn from mistakes or achievements. There are two main approaches to solve almost any reinforcement learning problem; value-based and policy-based. Around these two approaches, I created this piece covering the basics, Markov decision processes, and main RL algorithms. All of this with a goal to help you understand all the basics from one source.
+
+### Read the full article [here](https://mohamedyosef101.github.io/publication/rl101)
